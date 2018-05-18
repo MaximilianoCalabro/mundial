@@ -29,7 +29,8 @@ body{
 	min-height:35rem;
 	width:100%;
 	background-color:#4199F3;
-	opacity:.75;z-index:-1
+	opacity:.75;
+	z-index:-1
 }
 
 @media (min-width:768px){
